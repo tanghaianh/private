@@ -1,0 +1,14 @@
+E:\Working\motion_src\motion\bin\Release\motion.exe
+E:\Working\motion_src\motion\bin\Release\AForge.Imaging.dll
+E:\Working\motion_src\motion\bin\Release\AForge.Math.dll
+E:\Working\motion_src\motion\bin\Release\dshow.dll
+E:\Working\motion_src\motion\bin\Release\Tiger.Video.VFW.dll
+E:\Working\motion_src\motion\bin\Release\AForge.dll
+E:\Working\motion_src\motion\obj\Release\motion.csprojResolveAssemblyReference.cache
+E:\Working\motion_src\motion\obj\Release\motion.AboutForm.resources
+E:\Working\motion_src\motion\obj\Release\motion.CameraWindow.resources
+E:\Working\motion_src\motion\obj\Release\motion.CaptureDeviceForm.resources
+E:\Working\motion_src\motion\obj\Release\motion.MainForm.resources
+E:\Working\motion_src\motion\obj\Release\motion.URLForm.resources
+E:\Working\motion_src\motion\obj\Release\motion.csproj.GenerateResource.Cache
+E:\Working\motion_src\motion\obj\Release\motion.exe
