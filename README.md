@@ -1,4 +1,4 @@
 # private
-Các dự án cá nhân của Hải Anh
+This is sample project to test githup
 
 Đây là file test thôi ^^
